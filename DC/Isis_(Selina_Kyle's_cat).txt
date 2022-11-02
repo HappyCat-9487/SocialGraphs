@@ -1,0 +1,1 @@
+{'batchcomplete': '', 'query': {'normalized': [{'from': "Isis_(Selina_Kyle's_cat)", 'to': "Isis (Selina Kyle's cat)"}], 'pages': {'-1': {'ns': 0, 'title': "Isis (Selina Kyle's cat)", 'missing': ''}}}}
